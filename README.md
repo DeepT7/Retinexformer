@@ -1,8 +1,8 @@
 As you can see, the brightness of the image has been enhanced after processing with RetinexFormer model.
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/DeepT7/Retinexformer/blob/master/frames/frame_100.jpg" alt="Image 1" width="360"/>
-  <img src="https://github.com/DeepT7/Retinexformer/blob/master/results/frames/frame_100.jpg" alt="Image 2" width="360"/>
+  <img src="https://github.com/DeepT7/Retinexformer/blob/master/frames/frame_100.jpg" alt="Image 1" width="400"/>
+  <img src="https://github.com/DeepT7/Retinexformer/blob/master/results/frames/frame_100.jpg" alt="Image 2" width="400"/>
 </div>
 
 </div>
