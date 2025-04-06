@@ -173,7 +173,8 @@ def main():
         device_id = torch.cuda.current_device()
         resume_state = torch.load(
             opt['path']['resume_state'],
-            map_location=lambda storage, loc: storage.cuda(device_id))
+            map_location=lambda storage, loc: storage.cuda(device_id),
+            weights_only=False)
     else:
         resume_state = None
 
