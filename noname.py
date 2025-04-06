@@ -28,7 +28,7 @@ def extract_frames(video_path, output_dir, frame_numbers):
     cap.release()
     print("Frame extraction completed")
 
-video_path = 'videos/dark_condition.avi'
+video_path = 'videos/darker.mp4'
 output_dir = 'frames'
 frame_numbers = [0, 50, 100, 150, 200]
 
